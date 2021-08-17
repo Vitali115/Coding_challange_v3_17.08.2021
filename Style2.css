@@ -1,0 +1,79 @@
+html {
+background-image: url("background.jpg");
+height: 500px;
+background-size: cover;
+font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color:rgba(0, 0, 0, 0.5);
+  border: 2px red;
+  width: 1000px;
+  padding: 100px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+h1 {
+  color: #00dd00;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h2 {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+p {
+  color: white;
+  margin: 10px;
+  margin-bottom: 0;
+}
+
+.logos{
+  text-align: center;
+}
+
+.logo{
+height: 120px;
+margin-bottom: 0;
+}
+
+.Pulsanti {
+  background: #00dd00;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.Monopattino{
+color: white;
+margin: 0;
+}
+
+.batterystatus {
+  height: 30px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.green  {
+  background-color: #1ec31e;
+  width: 600px;
+  margin-bottom: 0;
+}
+
+.red {
+  background-color: #be4141;
+  width: 150px;
+  margin-bottom: 0;
+}
+
+.yellow {
+  background-color: #f5b453;
+  width: 350px;
+  margin-bottom: 0;
+}
